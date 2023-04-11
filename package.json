@@ -38,7 +38,7 @@
     }
   },
   "dependencies": {
-    "keen-tracking": "^5.0.1"
+    "keen-tracking": "https://github.com/t0ster/keen-tracking.js/tarball/6a8efd66c3603e5da6847fcc33cae2bf9fd3a68d"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
